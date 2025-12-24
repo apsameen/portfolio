@@ -18,4 +18,4 @@ portfolio-website
 - Personal Portfolio Website
 
 ## GitHub
-https://ameen001.github.io/ameen-portfolio
+https://apsameen.github.io/portfolio/
