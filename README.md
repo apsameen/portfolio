@@ -1,7 +1,12 @@
 
-# Ameen Portfolio
+# ameen-portfolio
 
-Personal portfolio website built using HTML, CSS, and JavaScript
+
+personal-portfolio
+web-portfolio
+frontend-portfolio
+portfolio-website
+
 
 
 ## Skills
@@ -13,4 +18,4 @@ Personal portfolio website built using HTML, CSS, and JavaScript
 - Personal Portfolio Website
 
 ## GitHub
-https://github.com/ameen001
+https://ameen001.github.io/ameen-portfolio
